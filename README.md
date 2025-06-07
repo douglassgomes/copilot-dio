@@ -12,7 +12,7 @@ Repositório de informações sobre criação de meu primeiro "Copiloto" no Micr
 - Observei que utilizando os modelos disponíveis, pelo menos com o tipo de licença que possuo, não foi possível alterar o idioma padrão, ficando as mensagens do agente todas em inglês.
 - Já utilizando a ferramenta de criar um agente "do zero" foi possível configurar o idioma desejado.
 - Aprendi também que posso conectar diversas bases de conhecimento que o agente utilizará, inclusive arquivos do OneDrive (no meu caso adicionei uma planilha com os endereços possíveis da instituição onde os encontros poderiam ocorrer).
-- Aprendi que é possível configurar o agente para que aceite ou não que o usuário envie anexos.
+- Por fim, aprendi que é possível configurar o agente para que aceite ou não que o usuário envie anexos.
 
 ## 🛠️ Tecnologias e Ferramentas Utilizadas
 
