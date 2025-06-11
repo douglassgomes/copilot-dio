@@ -15,8 +15,8 @@ Repositório de informações sobre criação de meu primeiro "Copiloto" no Micr
 - Aprendi também que posso conectar diversas bases de conhecimento que o agente utilizará, inclusive arquivos do OneDrive (no meu caso adicionei uma planilha com os endereços possíveis da instituição onde os encontros poderiam ocorrer).
 - Por fim, aprendi que é possível configurar o agente para que aceite ou não que o usuário envie anexos.
 ### Segundo Desafio
-- Customiização de tópicos;
-- Personalização de mensagens para tratar o usuário pelo nome, caso esteja logado;
+- Customização de tópicos;
+- Personalização de mensagens para tratar o usuário pelo primeiro nome (variável de sistema User.FirstName), caso esteja logado;
 - Personalização de mensagens de erro; e
 - Ajustes na qualidade das respostas utilizando IA Generativa.
 
